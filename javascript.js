@@ -1,6 +1,5 @@
-Blockly.Arduino['block1101'] = function(block) {
-  var value_e1 = Blockly.Arduino.valueToCode(block, 'e1', Blockly.Arduino.ORDER_ATOMIC);
+Blockly.Arduino['hello1026c'] = function(block) {
   // TODO: Assemble Arduino into code variable.
-  var code = 'pinMode(14)=digitalRead();\n';
+  var code = 'Block1026C;\n';
   return code;
 };
